@@ -1,0 +1,21 @@
+anaconda官網介紹：
+https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
+
+OpenCV-Python 安裝：
+https://web.cecs.pdx.edu/~fliu/courses/cs410/python-opencv.html
+
+Downloading and Extracting Packages
+
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+#
+# To activate this environment, use
+#
+#     $ conda activate testenv
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+查看所有環境的列表:conda info --envs

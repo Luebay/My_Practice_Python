@@ -1,0 +1,13 @@
+https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
+
+Jupyter Glossary:
+https://docs.jupyter.org/en/latest/glossary.html#term-kernel
+
+python3 --version
+python -m ensurepip
+pip3 --version
+pip 23.0.1 from D:\msys64\mingw64\lib\python3.10\site-packages\pip (python 3.10)
+
+python3 -m pip install ipykernel==6.0.0
+
+python test.py
